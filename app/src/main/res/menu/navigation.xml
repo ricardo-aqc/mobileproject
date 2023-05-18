@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- -->
+
+    <item
+        android:id="@+id/hometab"
+        android:icon="@drawable/home_48px"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/readtab"
+        android:icon="@drawable/view_list_48px"
+        android:title="@string/read" />
+
+    <item
+        android:id="@+id/updatetab"
+        android:icon="@drawable/edit_48px"
+        android:title="@string/update" />
+
+    <item
+        android:id="@+id/deletetab"
+        android:icon="@drawable/delete_48px"
+        android:title="@string/delete" />
+
+    <item
+        android:id="@+id/sqlitetab"
+        android:icon="@drawable/database_48px"
+        android:title="@string/sqlite" />
+
+</menu>
